@@ -1,6 +1,5 @@
 body {
     font-family: Arial, sans-serif;
-    font-size: 5;
     margin: 0;
     padding: 0;
     background-color: #00709f;
@@ -19,8 +18,3 @@ p {
     margin: 40px;
     
 }
-
-.texto {
-    color: #181661;
-    text-align: center;
-    }
