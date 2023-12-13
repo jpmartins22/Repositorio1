@@ -1,5 +1,6 @@
 body {
-    font-family: Gill Sans Extrabold;
+    font-family: revert-layer;
+    font-style: oblique;
     margin: 0;
     padding: 0;
     background-color: #00709f;
@@ -14,7 +15,10 @@ h1 {
     text-align:center;
 }
 
-p {
+p::first-letter {
+    font-size: 200%;
+    font-weight: bold;
+    color: purple;
     margin: 40px;
     
 }
