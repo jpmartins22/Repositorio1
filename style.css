@@ -1,14 +1,14 @@
 body {
-    font-family: revert-layer;
-    font-style: oblique;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-style: Italic;
     margin: 0;
-    padding: 0;
+    padding: 200px;
     background-color: #00709f;
 }
 
 #banner {
-    width: 70%;
-    margin: 20px auto;
+    width: 10000%;
+    margin: 1000px auto;
 }
 
 h1 {
